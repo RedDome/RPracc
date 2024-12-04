@@ -11,3 +11,4 @@ meanOfA2 <- mean(a2)
 meanOfA2
 
 a2FirstHigherThan150 <- a2[which(a2 > 150)[1]]
+a2FirstHigherThan150

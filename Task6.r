@@ -25,6 +25,6 @@ result1 <- has_consecutive_ten(vector1)
 result2 <- has_consecutive_ten(vector2)
 result3 <- has_consecutive_ten(vector3)
 
-print(result1)  # Should return TRUE
-print(result2)  # Should return FALSE
-print(result3)  # Should return FALSE
+result1  # Should return TRUE
+result2  # Should return FALSE
+result3  # Should return FALSE

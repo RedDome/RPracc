@@ -14,3 +14,4 @@ thirdCell <- 1758:(1758 - 39)
 fourthCell <- sample(c(TRUE, FALSE), 10, replace = TRUE)
 
 ZH <- list(firstCell, secondCell, thirdCell, fourthCell)
+ZH
